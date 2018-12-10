@@ -23,6 +23,3 @@ else:
 
 print(lampada_um)
 print(lampada_dois)
-
-
-
